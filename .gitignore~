@@ -1,0 +1,10 @@
+.gitignore
+./java/OCRClient/.settings
+./java/OCRClient/.settings/org.eclipse.jdt.core.prefs
+./java/OCRClient/.classpath
+./java/OCRClient/src/.settings
+./java/OCRClient/src/.settings/org.eclipse.jdt.core.prefs
+./java/OCRClient/src/.classpath
+./java/OCRClient/src/.project
+./java/OCRClient/.project
+
